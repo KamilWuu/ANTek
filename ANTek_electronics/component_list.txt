@@ -1,0 +1,11 @@
+MCU:
+ATTiny 84a-MU
+
+motor drivers:
+drv8210drl x2
+
+R:
+
+C:
+
+
